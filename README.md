@@ -23,11 +23,11 @@
 <h2>Ejercicio 8</h2>
 <p>Mostrar una figura similar a la siguiente. NOTA: solo esta permitido el uso de un * en todo el codigo.</p>
 
-    * <br/>
-    **<br/>
-    ***<br/>
-    ****<br/>
-    *****<br/>
+    * 
+    **
+    ***
+    ****
+    *****
     ******
 <h2>Ejercicio 9</h2>
 <p>Mostrar por pantalla todos los divisores de un numero obtenido de forma aleatoria con la funcion rand().</p>
